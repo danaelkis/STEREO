@@ -1,0 +1,55 @@
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+canvas {
+  display: block;
+}
+
+
+h2{
+padding-left: 12px;
+}
+
+.ex4{
+padding-left: 12px;
+}
+
+div.ex4 {
+  background-color: white;
+  width: 250px;
+  height:700px;
+  overflow: auto;
+  color:red;
+}
+
+img{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-weight: black;
+  color: red;
+}
+
+.firstline{
+padding-left: 12px;
+
+}
+
+hr {
+ height: 2px;
+ background: red;
+ border: red;
+
+}
+
+h1{
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
